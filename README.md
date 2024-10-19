@@ -1,5 +1,5 @@
-# -Implementasi-Algoritma-Decision-Tree-untuk-Memprediksi-Tingkat-Kemiskinan-di-Indonesia-
-Penelitian ini bertujuan mengklasifikasikan dan memprediksi tingkat kemiskinan di Indonesia menggunakan algoritma Decision Tree berdasarkan data persentase penduduk miskin dari berbagai provinsi. Algoritma ini dipilih karena kemampuannya dalam menangani data berstruktur serta memberikan interpretasi yang jelas. 
+# -Implementation-of-Decision-Tree-Algorithm-to-Predict-Poverty-Levels-in-Indonesia-
+This study aims to classify and predict the poverty rate in Indonesia using the Decision Tree algorithm based on the percentage of poor people from various provinces. This algorithm was chosen because of its ability to handle structured data and provide clear interpretation. 
 ## UNDERSTANDING DATA
 1. Province: Name of the province where the data was collected.
 2. Regency/City: Name of the regency or city within the province where the data came from.
